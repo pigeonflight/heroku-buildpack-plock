@@ -1,4 +1,4 @@
-Heroku buildpack: Plone
+Heroku buildpack: Plock
 =======================
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Plone apps it is based on the [original plone heroku buildpack from niteoweb](https://github.com/niteoweb/heroku-buildpack-plone), powered by [zc.buildout](http://www.buildout.org/en/latest/). You can use the free-tier [Heroku](https://www.heroku.com/features) account to run a simple, production-quality, Plone site, absolutely for free, forever.
